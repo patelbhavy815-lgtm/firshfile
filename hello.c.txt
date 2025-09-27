@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello\n"); // Prints "Hello" followed by a newline
-    return 0;          // Indicates successful program execution
+    printf("Hello\n"); 
+    printf("\n bhavy ")
+    return 0;         
 }
+
